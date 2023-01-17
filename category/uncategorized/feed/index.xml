@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Freddy Pizzeria</title>
+	<atom:link href="http://ehsankhashi.github.io/freddy/category/uncategorized/feed/?simply_static_page=1206" rel="self" type="application/rss+xml" />
+	<link>http://ehsankhashi.github.io/freddy/</link>
+	<description></description>
+	<lastBuildDate>Tue, 10 Jan 2023 03:05:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>item 1</title>
+		<link>http://ehsankhashi.github.io/freddy/2023/01/10/item-1/</link>
+					<comments>http://ehsankhashi.github.io/freddy/2023/01/10/item-1/#respond</comments>
+		
+		<dc:creator><![CDATA[ehsan]]></dc:creator>
+		<pubDate>Tue, 10 Jan 2023 02:44:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://ehsankhashi.github.io/freddy/?p=661</guid>
+
+					<description><![CDATA[hello kirrr23123123s213]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="661" class="elementor elementor-661">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-97e3f11 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="97e3f11" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3a1de6b" data-id="3a1de6b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-cb0301f elementor-widget elementor-widget-image" data-id="cb0301f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.9.2 - 21-12-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="200" height="300" src="http://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/pngegg-e1673352327401-200x300.png" class="attachment-medium size-medium wp-image-658" alt="" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-4af4beb elementor-widget elementor-widget-heading" data-id="4af4beb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.9.2 - 21-12-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">hello kirrr<br>23123<br>123<br>s213</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>http://ehsankhashi.github.io/freddy/2023/01/10/item-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

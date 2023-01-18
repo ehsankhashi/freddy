@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Freddy Pizzeria</title>
-	<atom:link href="http://ehsankhashi.github.io/freddy/feed/?simply_static_page=2125" rel="self" type="application/rss+xml" />
-	<link>http://ehsankhashi.github.io/freddy/</link>
+	<atom:link href="https://ehsankhashi.github.io/freddy/feed/?simply_static_page=13031" rel="self" type="application/rss+xml" />
+	<link>https://ehsankhashi.github.io/freddy/</link>
 	<description></description>
 	<lastBuildDate>Tue, 10 Jan 2023 03:05:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>item 1</title>
-		<link>http://ehsankhashi.github.io/freddy/2023/01/10/item-1/</link>
-					<comments>http://ehsankhashi.github.io/freddy/2023/01/10/item-1/#respond</comments>
+		<link>https://ehsankhashi.github.io/freddy/2023/01/10/item-1/</link>
+					<comments>https://ehsankhashi.github.io/freddy/2023/01/10/item-1/#respond</comments>
 		
 		<dc:creator><![CDATA[ehsan]]></dc:creator>
 		<pubDate>Tue, 10 Jan 2023 02:44:15 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://ehsankhashi.github.io/freddy/?p=661</guid>
+		<guid isPermaLink="false">https://ehsankhashi.github.io/freddy/?p=661</guid>
 
 					<description><![CDATA[hello kirrr23123123s213]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="661" class="elementor elementor-661">
@@ -38,7 +38,7 @@
 								<div class="elementor-element elementor-element-cb0301f elementor-widget elementor-widget-image" data-id="cb0301f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.9.2 - 21-12-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="200" height="300" src="http://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/pngegg-e1673352327401-200x300.png" class="attachment-medium size-medium wp-image-658" alt="" loading="lazy" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="200" height="300" src="https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/pngegg-e1673352327401-200x300.png" class="attachment-medium size-medium wp-image-658" alt="" loading="lazy" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-4af4beb elementor-widget elementor-widget-heading" data-id="4af4beb" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -52,7 +52,7 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>http://ehsankhashi.github.io/freddy/2023/01/10/item-1/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ehsankhashi.github.io/freddy/2023/01/10/item-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

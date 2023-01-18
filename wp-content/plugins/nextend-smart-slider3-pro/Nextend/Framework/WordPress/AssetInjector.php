@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;NextendFrameworkPatternSingletonTrait&quot; not found in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkWordPressAssetInjector.php</b> on line <b>11</b><br>

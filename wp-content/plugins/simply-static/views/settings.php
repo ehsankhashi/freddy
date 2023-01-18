@@ -1,0 +1,3 @@
+<div class="simply-static-admin-header">
+	<div class="logo"><img src="https://ehsankhashi.github.io/freddy/wp-content/plugins/simply-static/views/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function Simply_Staticesc_url() in C:xampphtdocswp-contentpluginssimply-staticviewssettings.php:5_Stack trace:_#0 {main}_  thrown in <b>C:xampphtdocswp-contentpluginssimply-staticviewssettings.php</b> on line <b>5</b><br />"></div>
+</div>

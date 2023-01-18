@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Could not check compatibility between vokuhelperSimpleHtmlDomInterface::getIterator(): vokuhelperSimpleHtmlDomNodeInterface and IteratorAggregate::getIterator(): Traversable, because class vokuhelperSimpleHtmlDomNodeInterface is not available in <b>C:xampphtdocswp-contentpluginssimply-staticvendorvokusimple_html_domsrcvokuhelperSimpleHtmlDomInterface.php</b> on line <b>243</b><br>

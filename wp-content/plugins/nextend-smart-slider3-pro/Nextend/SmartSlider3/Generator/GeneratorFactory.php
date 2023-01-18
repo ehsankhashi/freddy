@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;NextendFrameworkPatternPluggableTrait&quot; not found in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3GeneratorGeneratorFactory.php</b> on line <b>8</b><br>

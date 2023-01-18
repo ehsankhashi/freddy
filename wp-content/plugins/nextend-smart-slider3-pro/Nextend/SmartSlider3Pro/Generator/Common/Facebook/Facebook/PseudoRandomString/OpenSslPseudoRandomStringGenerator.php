@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;FacebookPseudoRandomStringPseudoRandomStringGeneratorTrait&quot; not found in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ProGeneratorCommonFacebookFacebookPseudoRandomStringOpenSslPseudoRandomStringGenerator.php</b> on line <b>29</b><br>

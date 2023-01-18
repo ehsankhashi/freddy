@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;NextendFrameworkPatternOrderableTrait&quot; not found in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3WidgetGroupAbstractWidgetGroup.php</b> on line <b>13</b><br>

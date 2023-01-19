@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  The script "class.JavaScriptPacker.php" is required. Please see: http://code.google.com/p/minify/source/browse/trunk/min/lib/Minify/Packer.php in <b>C:xampphtdocswp-contentpluginsw3-total-cachelibMinifyMinifyPacker.php</b> on line <b>22</b><br>

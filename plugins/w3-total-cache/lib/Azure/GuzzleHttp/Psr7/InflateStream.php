@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;GuzzleHttpPsr7StreamDecoratorTrait&quot; not found in <b>C:xampphtdocswp-contentpluginsw3-total-cachelibAzureGuzzleHttpPsr7InflateStream.php</b> on line <b>17</b><br>

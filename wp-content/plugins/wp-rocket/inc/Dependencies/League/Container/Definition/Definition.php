@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WP_RocketDependenciesLeagueContainerArgumentArgumentResolverTrait&quot; not found in <b>C:xampphtdocswp-contentpluginswp-rocketincDependenciesLeagueContainerDefinitionDefinition.php</b> on line <b>12</b><br>

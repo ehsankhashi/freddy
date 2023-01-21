@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WP_RocketEnginePreloadControllerCheckExcludedTrait&quot; not found in <b>C:xampphtdocswp-contentpluginswp-rocketincEnginePreloadControllerClearCache.php</b> on line <b>7</b><br>

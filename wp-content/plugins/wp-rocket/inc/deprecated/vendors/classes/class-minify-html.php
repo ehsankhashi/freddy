@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WP_RocketdeprecatedDeprecatedClassTrait&quot; not found in <b>C:xampphtdocswp-contentpluginswp-rocketincdeprecatedvendorsclassesclass-minify-html.php</b> on line <b>22</b><br>

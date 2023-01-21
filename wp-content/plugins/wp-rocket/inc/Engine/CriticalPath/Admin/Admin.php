@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WP_RocketEngineCriticalPathTransientTrait&quot; not found in <b>C:xampphtdocswp-contentpluginswp-rocketincEngineCriticalPathAdminAdmin.php</b> on line <b>9</b><br>

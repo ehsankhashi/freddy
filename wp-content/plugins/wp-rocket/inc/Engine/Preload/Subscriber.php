@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WP_RocketEnginePreloadControllerCheckExcludedTrait&quot; not found in <b>C:xampphtdocswp-contentpluginswp-rocketincEnginePreloadSubscriber.php</b> on line <b>16</b><br>

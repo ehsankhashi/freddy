@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;NextendFrameworkFormElementSelectSubFormIcon&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3FormElementSelectResponsiveSubFormIcon.php:9
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Nextend\Framework\Form\Element\Select\SubFormIcon&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Form\Element\Select\ResponsiveSubFormIcon.php:9
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3FormElementSelectResponsiveSubFormIcon.php</b> on line <b>9</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Form\Element\Select\ResponsiveSubFormIcon.php</b> on line <b>9</b><br>

@@ -3,8 +3,8 @@
 		<div class="ast-advanced-headers-saved-rule-select">
 			<select name="ast-advanced-headers-user-rule[]"  class="ast-advanced-headers-user-rule">
 				<option value=""><br />
-<b>Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in C:xampphtdocswp-contentpluginsastra-addonaddonsadvanced-headersincludesadmin-edit-user-rules.php:15
+<b>Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in C:\xampp\htdocs\wp-content\plugins\astra-addon\addons\advanced-headers\includes\admin-edit-user-rules.php:15
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsastra-addonaddonsadvanced-headersincludesadmin-edit-user-rules.php on line <b>15<br />
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\astra-addon\addons\advanced-headers\includes\admin-edit-user-rules.php on line <b>15<br />
 </script>

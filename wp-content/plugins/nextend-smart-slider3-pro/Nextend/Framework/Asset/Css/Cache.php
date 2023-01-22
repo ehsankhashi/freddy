@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;NextendFrameworkAssetAbstractCache&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkAssetCssCache.php:9
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Nextend\Framework\Asset\AbstractCache&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Asset\Css\Cache.php:9
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkAssetCssCache.php</b> on line <b>9</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Asset\Css\Cache.php</b> on line <b>9</b><br>

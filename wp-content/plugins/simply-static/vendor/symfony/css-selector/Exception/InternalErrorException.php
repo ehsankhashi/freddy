@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;SymfonyComponentCssSelectorExceptionParseException&quot; not found in C:xampphtdocswp-contentpluginssimply-staticvendorsymfonycss-selectorExceptionInternalErrorException.php:22
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Symfony\Component\CssSelector\Exception\ParseException&quot; not found in C:\xampp\htdocs\wp-content\plugins\simply-static\vendor\symfony\css-selector\Exception\InternalErrorException.php:22
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginssimply-staticvendorsymfonycss-selectorExceptionInternalErrorException.php</b> on line <b>22</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\simply-static\vendor\symfony\css-selector\Exception\InternalErrorException.php</b> on line <b>22</b><br>

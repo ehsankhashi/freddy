@@ -1,6 +1,6 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;NextendFrameworkUrlWordPressWordPressUrl&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkUrlUrl.php:16
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Nextend\Framework\Url\WordPress\WordPressUrl&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Url\Url.php:16
 Stack trace:
-#0 C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkUrlUrl.php(76): NextendFrameworkUrlUrl-&gt;__construct()
+#0 C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Url\Url.php(76): Nextend\Framework\Url\Url-&gt;__construct()
 #1 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkUrlUrl.php</b> on line <b>16</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Url\Url.php</b> on line <b>16</b><br>

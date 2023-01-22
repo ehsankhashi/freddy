@@ -15,9 +15,9 @@
     </head>
 
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;NextendSmartSlider3Settings&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ApplicationFrontendSliderTemplateIframe.php:60
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Nextend\SmartSlider3\Settings&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Application\Frontend\Slider\Template\Iframe.php:60
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ApplicationFrontendSliderTemplateIframe.php</b> on line <b>60</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Application\Frontend\Slider\Template\Iframe.php</b> on line <b>60</b><br>
 
 </html>

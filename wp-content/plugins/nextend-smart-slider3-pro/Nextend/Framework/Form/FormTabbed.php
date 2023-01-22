@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;NextendFrameworkFormForm&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkFormFormTabbed.php:12
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Nextend\Framework\Form\Form&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Form\FormTabbed.php:12
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkFormFormTabbed.php</b> on line <b>12</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Form\FormTabbed.php</b> on line <b>12</b><br>

@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;WP_RocketdeprecatedDeprecatedClassTrait&quot; not found in <b>C:xampphtdocswp-contentpluginswp-rocketincdeprecatedEngineAddonBustingBustingFactory.php</b> on line <b>16</b><br>

@@ -1,2 +1,2 @@
 <br>
-<b>Fatal error</b>:  Trait &quot;NextendFrameworkPatternVisualManagerTrait&quot; not found in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkBrowseBrowseManager.php</b> on line <b>10</b><br>
+<b>Fatal error</b>:  Trait &quot;Nextend\Framework\Pattern\VisualManagerTrait&quot; not found in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Browse\BrowseManager.php</b> on line <b>10</b><br>

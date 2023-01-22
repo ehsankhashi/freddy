@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;NextendFrameworkAssetJsJs&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ApplicationAdminSettingsTemplateGeneratorConfigure.php:11
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Nextend\Framework\Asset\Js\Js&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Application\Admin\Settings\Template\GeneratorConfigure.php:11
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ApplicationAdminSettingsTemplateGeneratorConfigure.php</b> on line <b>11</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Application\Admin\Settings\Template\GeneratorConfigure.php</b> on line <b>11</b><br>

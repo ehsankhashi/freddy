@@ -11,9 +11,9 @@
 
     <div class="n2_dashboard_manager_review__heading">
         <br>
-<b>Fatal error</b>:  Uncaught Error: Call to undefined function NextendSmartSlider3ApplicationAdminLayoutBlockDashboardDashboardManagerBoxesn2_e() in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ApplicationAdminLayoutBlockDashboardDashboardManagerBoxesDashboardReview.php:25
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function Nextend\SmartSlider3\Application\Admin\Layout\Block\Dashboard\DashboardManager\Boxes\n2_e() in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Application\Admin\Layout\Block\Dashboard\DashboardManager\Boxes\DashboardReview.php:25
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ApplicationAdminLayoutBlockDashboardDashboardManagerBoxesDashboardReview.php</b> on line <b>25</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Application\Admin\Layout\Block\Dashboard\DashboardManager\Boxes\DashboardReview.php</b> on line <b>25</b><br>
 </div>
 </div>

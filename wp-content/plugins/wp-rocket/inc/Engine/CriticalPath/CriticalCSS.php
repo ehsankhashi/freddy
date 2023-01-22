@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;WP_RocketEngineOptimizationContentTrait&quot; not found in <b>C:xampphtdocswp-contentpluginswp-rocketincEngineCriticalPathCriticalCSS.php</b> on line <b>16</b><br>

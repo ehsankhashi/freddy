@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;FacebookExceptionsFacebookSDKException&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ProGeneratorCommonFacebookFacebookExceptionsFacebookClientException.php:32
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Facebook\Exceptions\FacebookSDKException&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3Pro\Generator\Common\Facebook\Facebook\Exceptions\FacebookClientException.php:32
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ProGeneratorCommonFacebookFacebookExceptionsFacebookClientException.php</b> on line <b>32</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3Pro\Generator\Common\Facebook\Facebook\Exceptions\FacebookClientException.php</b> on line <b>32</b><br>

@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;ElementorProModulesFormsSubmissionsDatabaseMigrationsBase_Migration&quot; not found in C:xampphtdocswp-contentpluginselementor-promodulesformssubmissionsdatabasemigrationsinitial.php:4
+<b>Fatal error</b>:  Uncaught Error: Class &quot;ElementorPro\Modules\Forms\Submissions\Database\Migrations\Base_Migration&quot; not found in C:\xampp\htdocs\wp-content\plugins\elementor-pro\modules\forms\submissions\database\migrations\initial.php:4
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginselementor-promodulesformssubmissionsdatabasemigrationsinitial.php</b> on line <b>4</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\elementor-pro\modules\forms\submissions\database\migrations\initial.php</b> on line <b>4</b><br>

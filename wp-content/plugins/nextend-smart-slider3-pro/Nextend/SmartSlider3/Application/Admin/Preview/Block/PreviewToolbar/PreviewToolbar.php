@@ -19,8 +19,8 @@
         <option value="150">150%</option>
     </select>
     <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;NextendSmartSlider3ApplicationAdminLayoutBlockFormsButtonBlockButtonPlainIcon&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ApplicationAdminPreviewBlockPreviewToolbarPreviewToolbar.php:36
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Nextend\SmartSlider3\Application\Admin\Layout\Block\Forms\Button\BlockButtonPlainIcon&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Application\Admin\Preview\Block\PreviewToolbar\PreviewToolbar.php:36
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ApplicationAdminPreviewBlockPreviewToolbarPreviewToolbar.php</b> on line <b>36</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Application\Admin\Preview\Block\PreviewToolbar\PreviewToolbar.php</b> on line <b>36</b><br>
 </div>

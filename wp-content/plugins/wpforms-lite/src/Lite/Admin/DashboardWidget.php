@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;WPFormsAdminDashboardWidget&quot; not found in C:xampphtdocswp-contentpluginswpforms-litesrcLiteAdminDashboardWidget.php:12
+<b>Fatal error</b>:  Uncaught Error: Class &quot;WPForms\Admin\Dashboard\Widget&quot; not found in C:\xampp\htdocs\wp-content\plugins\wpforms-lite\src\Lite\Admin\DashboardWidget.php:12
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginswpforms-litesrcLiteAdminDashboardWidget.php</b> on line <b>12</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\wpforms-lite\src\Lite\Admin\DashboardWidget.php</b> on line <b>12</b><br>

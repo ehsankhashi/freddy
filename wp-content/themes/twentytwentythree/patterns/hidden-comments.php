@@ -5,10 +5,10 @@
 		<!-- wp:heading {"level":2} -->
 		<h2>
 <br>
-<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_html_x() in C:xampphtdocswp-contentthemestwentytwentythreepatternshidden-comments.php:13
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_html_x() in C:\xampp\htdocs\wp-content\themes\twentytwentythree\patterns\hidden-comments.php:13
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentthemestwentytwentythreepatternshidden-comments.php</b> on line <b>13</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\themes\twentytwentythree\patterns\hidden-comments.php</b> on line <b>13</b><br>
 </h2>
 </div>
 </div>

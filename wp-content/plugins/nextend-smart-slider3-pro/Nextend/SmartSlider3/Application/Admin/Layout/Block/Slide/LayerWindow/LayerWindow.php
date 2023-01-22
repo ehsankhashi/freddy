@@ -13,10 +13,10 @@
 
         <div class="n2_ss_layer_window__tab_buttons">
             <br>
-<b>Fatal error</b>:  Uncaught Error: Using $this when not in object context in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ApplicationAdminLayoutBlockSlideLayerWindowLayerWindow.php:25
+<b>Fatal error</b>:  Uncaught Error: Using $this when not in object context in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Application\Admin\Layout\Block\Slide\LayerWindow\LayerWindow.php:25
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ApplicationAdminLayoutBlockSlideLayerWindowLayerWindow.php</b> on line <b>25</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Application\Admin\Layout\Block\Slide\LayerWindow\LayerWindow.php</b> on line <b>25</b><br>
 </div>
 </div>
 </div>

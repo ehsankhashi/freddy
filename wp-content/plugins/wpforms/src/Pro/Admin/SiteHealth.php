@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;WPFormsAdminSiteHealth&quot; not found in C:xampphtdocswp-contentpluginswpformssrcProAdminSiteHealth.php:11
+<b>Fatal error</b>:  Uncaught Error: Class &quot;WPForms\Admin\SiteHealth&quot; not found in C:\xampp\htdocs\wp-content\plugins\wpforms\src\Pro\Admin\SiteHealth.php:11
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginswpformssrcProAdminSiteHealth.php</b> on line <b>11</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\wpforms\src\Pro\Admin\SiteHealth.php</b> on line <b>11</b><br>

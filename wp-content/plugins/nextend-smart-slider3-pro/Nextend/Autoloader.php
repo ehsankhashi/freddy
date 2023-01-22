@@ -1,18 +1,18 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Call to undefined function NextendFrameworkPlatformWordPressis_admin() in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkPlatformWordPressPlatformWordPress.php:17
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function Nextend\Framework\Platform\WordPress\is_admin() in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Platform\WordPress\PlatformWordPress.php:17
 Stack trace:
-#0 C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkPlatformPlatform.php(19): NextendFrameworkPlatformWordPressPlatformWordPress-&gt;__construct()
-#1 C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkPatternSingletonTrait.php(12): NextendFrameworkPlatformPlatform-&gt;__construct()
-#2 C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkPlatformPlatform.php(85): NextendFrameworkPlatformPlatform::getInstance()
-#3 C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendAutoloader.php(194): require('C:\xampp\htdocs...')
-#4 C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendAutoloader.php(175): NextendAutoloader-&gt;requireFile('C:\xampp\htdocs...')
-#5 C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendAutoloader.php(128): NextendAutoloader-&gt;loadMappedFile('Nextend\', 'Framework\Platf...')
-#6 C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3SmartSlider3.php(30): NextendAutoloader-&gt;loadClass('Nextend\Framewo...')
-#7 C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkPatternSingletonTrait.php(16): NextendSmartSlider3SmartSlider3-&gt;init()
-#8 C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkPatternSingletonTrait.php(12): NextendSmartSlider3SmartSlider3-&gt;__construct()
-#9 [internal function]: NextendSmartSlider3SmartSlider3::getInstance()
-#10 C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendAutoloader.php(45): call_user_func_array(Array, Array)
-#11 C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendAutoloader.php(55): NextendAutoloader-&gt;__construct()
-#12 C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendAutoloader.php(203): NextendAutoloader::getInstance()
+#0 C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Platform\Platform.php(19): Nextend\Framework\Platform\WordPress\PlatformWordPress-&gt;__construct()
+#1 C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Pattern\SingletonTrait.php(12): Nextend\Framework\Platform\Platform-&gt;__construct()
+#2 C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Platform\Platform.php(85): Nextend\Framework\Platform\Platform::getInstance()
+#3 C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Autoloader.php(194): require('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Autoloader.php(175): Nextend\Autoloader-&gt;requireFile('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Autoloader.php(128): Nextend\Autoloader-&gt;loadMappedFile('Nextend\\', 'Framework\\Platf...')
+#6 C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\SmartSlider3.php(30): Nextend\Autoloader-&gt;loadClass('Nextend\\Framewo...')
+#7 C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Pattern\SingletonTrait.php(16): Nextend\SmartSlider3\SmartSlider3-&gt;init()
+#8 C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Pattern\SingletonTrait.php(12): Nextend\SmartSlider3\SmartSlider3-&gt;__construct()
+#9 [internal function]: Nextend\SmartSlider3\SmartSlider3::getInstance()
+#10 C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Autoloader.php(45): call_user_func_array(Array, Array)
+#11 C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Autoloader.php(55): Nextend\Autoloader-&gt;__construct()
+#12 C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Autoloader.php(203): Nextend\Autoloader::getInstance()
 #13 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkPlatformWordPressPlatformWordPress.php</b> on line <b>17</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Platform\WordPress\PlatformWordPress.php</b> on line <b>17</b><br>

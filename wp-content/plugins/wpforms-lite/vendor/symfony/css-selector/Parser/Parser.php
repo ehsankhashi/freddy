@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Interface &quot;SymfonyComponentCssSelectorParserParserInterface&quot; not found in C:xampphtdocswp-contentpluginswpforms-litevendorsymfonycss-selectorParserParser.php:28
+<b>Fatal error</b>:  Uncaught Error: Interface &quot;Symfony\Component\CssSelector\Parser\ParserInterface&quot; not found in C:\xampp\htdocs\wp-content\plugins\wpforms-lite\vendor\symfony\css-selector\Parser\Parser.php:28
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginswpforms-litevendorsymfonycss-selectorParserParser.php</b> on line <b>28</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\wpforms-lite\vendor\symfony\css-selector\Parser\Parser.php</b> on line <b>28</b><br>

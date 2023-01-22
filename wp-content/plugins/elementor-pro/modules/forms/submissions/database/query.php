@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;ElementorCoreBaseBase_Object&quot; not found in C:xampphtdocswp-contentpluginselementor-promodulesformssubmissionsdatabasequery.php:11
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Elementor\Core\Base\Base_Object&quot; not found in C:\xampp\htdocs\wp-content\plugins\elementor-pro\modules\forms\submissions\database\query.php:11
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginselementor-promodulesformssubmissionsdatabasequery.php</b> on line <b>11</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\elementor-pro\modules\forms\submissions\database\query.php</b> on line <b>11</b><br>

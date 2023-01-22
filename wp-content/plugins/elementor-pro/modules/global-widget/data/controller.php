@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;ElementorDataBaseController&quot; not found in C:xampphtdocswp-contentpluginselementor-promodulesglobal-widgetdatacontroller.php:7
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Elementor\Data\Base\Controller&quot; not found in C:\xampp\htdocs\wp-content\plugins\elementor-pro\modules\global-widget\data\controller.php:7
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginselementor-promodulesglobal-widgetdatacontroller.php</b> on line <b>7</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\elementor-pro\modules\global-widget\data\controller.php</b> on line <b>7</b><br>

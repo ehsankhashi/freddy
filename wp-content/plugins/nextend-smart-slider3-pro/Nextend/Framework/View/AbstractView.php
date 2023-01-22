@@ -1,2 +1,2 @@
 <br>
-<b>Fatal error</b>:  Trait &quot;NextendFrameworkPatternGetPathTrait&quot; not found in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkViewAbstractView.php</b> on line <b>11</b><br>
+<b>Fatal error</b>:  Trait &quot;Nextend\Framework\Pattern\GetPathTrait&quot; not found in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\View\AbstractView.php</b> on line <b>11</b><br>

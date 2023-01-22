@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;SymfonyComponentCssSelectorXPathExtensionAbstractExtension&quot; not found in C:xampphtdocswp-contentpluginswpforms-litevendorsymfonycss-selectorXPathExtensionFunctionExtension.php:31
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Symfony\Component\CssSelector\XPath\Extension\AbstractExtension&quot; not found in C:\xampp\htdocs\wp-content\plugins\wpforms-lite\vendor\symfony\css-selector\XPath\Extension\FunctionExtension.php:31
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginswpforms-litevendorsymfonycss-selectorXPathExtensionFunctionExtension.php</b> on line <b>31</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\wpforms-lite\vendor\symfony\css-selector\XPath\Extension\FunctionExtension.php</b> on line <b>31</b><br>

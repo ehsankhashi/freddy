@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;SymfonyComponentCssSelectorNodeAbstractNode&quot; not found in C:xampphtdocswp-contentpluginswpformsvendorsymfonycss-selectorNodeFunctionNode.php:26
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Symfony\Component\CssSelector\Node\AbstractNode&quot; not found in C:\xampp\htdocs\wp-content\plugins\wpforms\vendor\symfony\css-selector\Node\FunctionNode.php:26
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginswpformsvendorsymfonycss-selectorNodeFunctionNode.php</b> on line <b>26</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\wpforms\vendor\symfony\css-selector\Node\FunctionNode.php</b> on line <b>26</b><br>

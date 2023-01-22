@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;NextendSmartSlider3GeneratorAbstractGenerator&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ProGeneratorWordPressCustomSourcesCustomCustom.php:13
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Nextend\SmartSlider3\Generator\AbstractGenerator&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3Pro\Generator\WordPress\Custom\Sources\CustomCustom.php:13
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ProGeneratorWordPressCustomSourcesCustomCustom.php</b> on line <b>13</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3Pro\Generator\WordPress\Custom\Sources\CustomCustom.php</b> on line <b>13</b><br>

@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;NextendFrameworkViewAbstractBlock&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ApplicationAdminLayoutBlockSlideLayerWindowBlockLayerWindow.php:24
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Nextend\Framework\View\AbstractBlock&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Application\Admin\Layout\Block\Slide\LayerWindow\BlockLayerWindow.php:24
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ApplicationAdminLayoutBlockSlideLayerWindowBlockLayerWindow.php</b> on line <b>24</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Application\Admin\Layout\Block\Slide\LayerWindow\BlockLayerWindow.php</b> on line <b>24</b><br>

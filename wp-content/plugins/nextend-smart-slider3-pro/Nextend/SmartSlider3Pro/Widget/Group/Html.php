@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;NextendSmartSlider3WidgetGroupAbstractWidgetGroup&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ProWidgetGroupHtml.php:13
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Nextend\SmartSlider3\Widget\Group\AbstractWidgetGroup&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3Pro\Widget\Group\Html.php:13
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ProWidgetGroupHtml.php</b> on line <b>13</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3Pro\Widget\Group\Html.php</b> on line <b>13</b><br>

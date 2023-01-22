@@ -1,2 +1,2 @@
 <br>
-<b>Fatal error</b>:  Trait &quot;NextendFrameworkPatternGetAssetsPathTrait&quot; not found in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3PlatformWordPressIntegrationGutenbergGutenberg.php</b> on line <b>10</b><br>
+<b>Fatal error</b>:  Trait &quot;Nextend\Framework\Pattern\GetAssetsPathTrait&quot; not found in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Platform\WordPress\Integration\Gutenberg\Gutenberg.php</b> on line <b>10</b><br>

@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;ElementorProModulesQueryControlClassesElementor_Post_Query&quot; not found in C:xampphtdocswp-contentpluginselementor-promodulesquery-controlclasseselementor-related-query.php:7
+<b>Fatal error</b>:  Uncaught Error: Class &quot;ElementorPro\Modules\QueryControl\Classes\Elementor_Post_Query&quot; not found in C:\xampp\htdocs\wp-content\plugins\elementor-pro\modules\query-control\classes\elementor-related-query.php:7
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginselementor-promodulesquery-controlclasseselementor-related-query.php</b> on line <b>7</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\elementor-pro\modules\query-control\classes\elementor-related-query.php</b> on line <b>7</b><br>

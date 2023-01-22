@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;WPFormsSmartTagsSmartTagSmartTag&quot; not found in C:xampphtdocswp-contentpluginswpforms-litesrcSmartTagsSmartTagPageTitle.php:10
+<b>Fatal error</b>:  Uncaught Error: Class &quot;WPForms\SmartTags\SmartTag\SmartTag&quot; not found in C:\xampp\htdocs\wp-content\plugins\wpforms-lite\src\SmartTags\SmartTag\PageTitle.php:10
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginswpforms-litesrcSmartTagsSmartTagPageTitle.php</b> on line <b>10</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\wpforms-lite\src\SmartTags\SmartTag\PageTitle.php</b> on line <b>10</b><br>

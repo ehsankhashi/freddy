@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;ElementorAppModulesImportExportRunnersImportImport_Runner_Base&quot; not found in C:xampphtdocswp-contentpluginselementorappmodulesimport-exportrunnersimportplugins.php:9
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Elementor\App\Modules\ImportExport\Runners\Import\Import_Runner_Base&quot; not found in C:\xampp\htdocs\wp-content\plugins\elementor\app\modules\import-export\runners\import\plugins.php:9
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginselementorappmodulesimport-exportrunnersimportplugins.php</b> on line <b>9</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\elementor\app\modules\import-export\runners\import\plugins.php</b> on line <b>9</b><br>

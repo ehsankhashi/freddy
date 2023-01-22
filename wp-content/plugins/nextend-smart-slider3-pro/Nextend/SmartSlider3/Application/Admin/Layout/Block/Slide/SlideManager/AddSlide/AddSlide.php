@@ -7,10 +7,10 @@
             </div>
             <div class="n2_slide_manager__add_slide_action_label">
 <br>
-<b>Fatal error</b>:  Uncaught Error: Call to undefined function NextendSmartSlider3ApplicationAdminLayoutBlockSlideSlideManagerAddSliden2_e() in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ApplicationAdminLayoutBlockSlideSlideManagerAddSlideAddSlide.php:19
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function Nextend\SmartSlider3\Application\Admin\Layout\Block\Slide\SlideManager\AddSlide\n2_e() in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Application\Admin\Layout\Block\Slide\SlideManager\AddSlide\AddSlide.php:19
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ApplicationAdminLayoutBlockSlideSlideManagerAddSlideAddSlide.php</b> on line <b>19</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Application\Admin\Layout\Block\Slide\SlideManager\AddSlide\AddSlide.php</b> on line <b>19</b><br>
 </div></a>
 </div>
 </div>

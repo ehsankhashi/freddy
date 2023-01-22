@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;NextendSmartSlider3PlatformWordPressIntegrationElementorAbstractControl&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3PlatformWordPressIntegrationElementorElementorControlSmartSlider.php:7
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Nextend\SmartSlider3\Platform\WordPress\Integration\Elementor\AbstractControl&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Platform\WordPress\Integration\Elementor\ElementorControlSmartSlider.php:7
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3PlatformWordPressIntegrationElementorElementorControlSmartSlider.php</b> on line <b>7</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Platform\WordPress\Integration\Elementor\ElementorControlSmartSlider.php</b> on line <b>7</b><br>

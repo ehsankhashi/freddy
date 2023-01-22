@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Interface &quot;WPFormsAdminEducationEducationInterface&quot; not found in C:xampphtdocswp-contentpluginswpforms-litesrcLiteAdminEducationBuilderDidYouKnow.php:12
+<b>Fatal error</b>:  Uncaught Error: Interface &quot;WPForms\Admin\Education\EducationInterface&quot; not found in C:\xampp\htdocs\wp-content\plugins\wpforms-lite\src\Lite\Admin\Education\Builder\DidYouKnow.php:12
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginswpforms-litesrcLiteAdminEducationBuilderDidYouKnow.php</b> on line <b>12</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\wpforms-lite\src\Lite\Admin\Education\Builder\DidYouKnow.php</b> on line <b>12</b><br>

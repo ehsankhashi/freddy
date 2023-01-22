@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;NextendFrameworkSettings&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ProSplitTextSplitTextRenderer.php:135
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Nextend\Framework\Settings&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3Pro\SplitText\SplitTextRenderer.php:135
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ProSplitTextSplitTextRenderer.php</b> on line <b>135</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3Pro\SplitText\SplitTextRenderer.php</b> on line <b>135</b><br>

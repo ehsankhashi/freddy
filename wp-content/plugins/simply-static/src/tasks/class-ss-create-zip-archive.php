@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Undefined constant &quot;Simply_StaticABSPATH&quot; in C:xampphtdocswp-contentpluginssimply-staticsrctasksclass-ss-create-zip-archive.php:4
+<b>Fatal error</b>:  Uncaught Error: Undefined constant &quot;Simply_Static\ABSPATH&quot; in C:\xampp\htdocs\wp-content\plugins\simply-static\src\tasks\class-ss-create-zip-archive.php:4
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginssimply-staticsrctasksclass-ss-create-zip-archive.php</b> on line <b>4</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\simply-static\src\tasks\class-ss-create-zip-archive.php</b> on line <b>4</b><br>

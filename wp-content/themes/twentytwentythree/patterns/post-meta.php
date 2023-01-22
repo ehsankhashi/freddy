@@ -17,10 +17,10 @@
 				<!-- wp:paragraph -->
 				<p>
 					<br>
-<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_html_x() in C:xampphtdocswp-contentthemestwentytwentythreepatternspost-meta.php:28
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_html_x() in C:\xampp\htdocs\wp-content\themes\twentytwentythree\patterns\post-meta.php:28
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentthemestwentytwentythreepatternspost-meta.php</b> on line <b>28</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\themes\twentytwentythree\patterns\post-meta.php</b> on line <b>28</b><br>
 </p>
 </div>
 </div>

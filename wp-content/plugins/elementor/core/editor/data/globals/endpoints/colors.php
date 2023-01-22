@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;ElementorCoreEditorDataGlobalsEndpointsBase&quot; not found in C:xampphtdocswp-contentpluginselementorcoreeditordataglobalsendpointscolors.php:6
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Elementor\Core\Editor\Data\Globals\Endpoints\Base&quot; not found in C:\xampp\htdocs\wp-content\plugins\elementor\core\editor\data\globals\endpoints\colors.php:6
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginselementorcoreeditordataglobalsendpointscolors.php</b> on line <b>6</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\elementor\core\editor\data\globals\endpoints\colors.php</b> on line <b>6</b><br>

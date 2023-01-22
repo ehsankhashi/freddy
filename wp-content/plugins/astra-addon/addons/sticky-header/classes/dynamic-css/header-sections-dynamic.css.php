@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Call to undefined function astra_addon_builder_helper() in C:xampphtdocswp-contentpluginsastra-addonaddonssticky-headerclassesdynamic-cssheader-sections-dynamic.css.php:8
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function astra_addon_builder_helper() in C:\xampp\htdocs\wp-content\plugins\astra-addon\addons\sticky-header\classes\dynamic-css\header-sections-dynamic.css.php:8
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsastra-addonaddonssticky-headerclassesdynamic-cssheader-sections-dynamic.css.php</b> on line <b>8</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\astra-addon\addons\sticky-header\classes\dynamic-css\header-sections-dynamic.css.php</b> on line <b>8</b><br>

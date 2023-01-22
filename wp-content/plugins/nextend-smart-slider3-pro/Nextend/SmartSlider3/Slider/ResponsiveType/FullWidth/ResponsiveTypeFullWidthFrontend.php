@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;NextendSmartSlider3SliderResponsiveTypeAbstractResponsiveTypeFrontend&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3SliderResponsiveTypeFullWidthResponsiveTypeFullWidthFrontend.php:7
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Nextend\SmartSlider3\Slider\ResponsiveType\AbstractResponsiveTypeFrontend&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Slider\ResponsiveType\FullWidth\ResponsiveTypeFullWidthFrontend.php:7
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3SliderResponsiveTypeFullWidthResponsiveTypeFullWidthFrontend.php</b> on line <b>7</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3\Slider\ResponsiveType\FullWidth\ResponsiveTypeFullWidthFrontend.php</b> on line <b>7</b><br>

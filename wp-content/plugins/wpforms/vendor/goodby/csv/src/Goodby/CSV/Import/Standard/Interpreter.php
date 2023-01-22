@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Interface &quot;GoodbyCSVImportProtocolInterpreterInterface&quot; not found in C:xampphtdocswp-contentpluginswpformsvendorgoodbycsvsrcGoodbyCSVImportStandardInterpreter.php:12
+<b>Fatal error</b>:  Uncaught Error: Interface &quot;Goodby\CSV\Import\Protocol\InterpreterInterface&quot; not found in C:\xampp\htdocs\wp-content\plugins\wpforms\vendor\goodby\csv\src\Goodby\CSV\Import\Standard\Interpreter.php:12
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginswpformsvendorgoodbycsvsrcGoodbyCSVImportStandardInterpreter.php</b> on line <b>12</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\wpforms\vendor\goodby\csv\src\Goodby\CSV\Import\Standard\Interpreter.php</b> on line <b>12</b><br>

@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Class &quot;NextendFrameworkFormElementSelect&quot; not found in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ProGeneratorWordPressAllInOneEventCalendarElementsAllInOneEventCalendarCategories.php:8
+<b>Fatal error</b>:  Uncaught Error: Class &quot;Nextend\Framework\Form\Element\Select&quot; not found in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3Pro\Generator\WordPress\AllInOneEventCalendar\Elements\AllInOneEventCalendarCategories.php:8
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ProGeneratorWordPressAllInOneEventCalendarElementsAllInOneEventCalendarCategories.php</b> on line <b>8</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3Pro\Generator\WordPress\AllInOneEventCalendar\Elements\AllInOneEventCalendarCategories.php</b> on line <b>8</b><br>

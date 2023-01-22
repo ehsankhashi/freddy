@@ -4,10 +4,10 @@
         <div class="n2_fullscreen_editor__nav_bar">
             <div class="n2_fullscreen_editor__nav_bar_label">
                 <br>
-<b>Fatal error</b>:  Uncaught Error: Call to undefined function NextendFrameworkStyleBlockStyleManagern2_e() in C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkStyleBlockStyleManagerIndex.php:14
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function Nextend\Framework\Style\Block\StyleManager\n2_e() in C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Style\Block\StyleManager\Index.php:14
 Stack trace:
 #0 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendFrameworkStyleBlockStyleManagerIndex.php</b> on line <b>14</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\Framework\Style\Block\StyleManager\Index.php</b> on line <b>14</b><br>
 </div>
 </div>
 </div>

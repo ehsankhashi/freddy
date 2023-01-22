@@ -1,6 +1,6 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Call to undefined function add_action() in C:xampphtdocswp-contentpluginswpformsincludesadminclass-welcome.php:26
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function add_action() in C:\xampp\htdocs\wp-content\plugins\wpforms\includes\admin\class-welcome.php:26
 Stack trace:
-#0 C:xampphtdocswp-contentpluginswpformsincludesadminclass-welcome.php(350): WPForms_Welcome-&gt;__construct()
+#0 C:\xampp\htdocs\wp-content\plugins\wpforms\includes\admin\class-welcome.php(350): WPForms_Welcome-&gt;__construct()
 #1 {main}
-  thrown in <b>C:xampphtdocswp-contentpluginswpformsincludesadminclass-welcome.php</b> on line <b>26</b><br>
+  thrown in <b>C:\xampp\htdocs\wp-content\plugins\wpforms\includes\admin\class-welcome.php</b> on line <b>26</b><br>

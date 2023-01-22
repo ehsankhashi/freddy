@@ -1,2 +1,2 @@
 <br>
-<b>Fatal error</b>:  Trait &quot;NextendFrameworkPatternGetAssetsPathTrait&quot; not found in <b>C:xampphtdocswp-contentpluginsnextend-smart-slider3-proNextendSmartSlider3ProApplicationAdminPluggedApplicationTypeAdmin.php</b> on line <b>22</b><br>
+<b>Fatal error</b>:  Trait &quot;Nextend\Framework\Pattern\GetAssetsPathTrait&quot; not found in <b>C:\xampp\htdocs\wp-content\plugins\nextend-smart-slider3-pro\Nextend\SmartSlider3Pro\Application\Admin\PluggedApplicationTypeAdmin.php</b> on line <b>22</b><br>

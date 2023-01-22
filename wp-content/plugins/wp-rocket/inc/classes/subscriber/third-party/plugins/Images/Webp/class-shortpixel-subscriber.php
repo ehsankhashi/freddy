@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Trait &quot;WP_RocketSubscriberThird_PartyPluginsImagesWebpWebp_Common&quot; not found in <b>C:xampphtdocswp-contentpluginswp-rocketincclassessubscriberthird-partypluginsImagesWebpclass-shortpixel-subscriber.php</b> on line <b>13</b><br>

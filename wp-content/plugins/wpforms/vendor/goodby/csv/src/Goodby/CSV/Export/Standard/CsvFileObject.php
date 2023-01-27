@@ -1,2 +1,0 @@
-<br>
-<b>Fatal error</b>:  Declaration of Goodby\CSV\Export\Standard\CsvFileObject::fputcsv($fields, $delimiter = null, $enclosure = null, $escape = null) must be compatible with SplFileObject::fputcsv(array $fields, string $separator = ",", string $enclosure = "\"", string $escape = "\\", string $eol = "\n"): int|false in <b>C:\xampp\htdocs\wp-content\plugins\wpforms\vendor\goodby\csv\src\Goodby\CSV\Export\Standard\CsvFileObject.php</b> on line <b>50</b><br>

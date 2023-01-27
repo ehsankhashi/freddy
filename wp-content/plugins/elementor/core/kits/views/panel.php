@@ -10,8 +10,8 @@
 	<div id="elementor-panel__editor__help">
 		<a id="elementor-panel__editor__help__link" href="{{ tabConfig.helpUrl }}" target="_blank">
 			<br />
-<b>Fatal error:  Uncaught Error: Call to undefined function esc_html__() in C:\xampp\htdocs\wp-content\plugins\elementor\core\kits\views\panel.php:12
+<b>Fatal error:  Uncaught Error: Call to undefined function esc_html__() in C:\Users\14387\Local Sites\freddymenu\app\public\wp-content\plugins\elementor\core\kits\views\panel.php:12
 Stack trace:
 #0 {main}
-  thrown in <b>C:\xampp\htdocs\wp-content\plugins\elementor\core\kits\views\panel.php on line <b>12<br />
+  thrown in <b>C:\Users\14387\Local Sites\freddymenu\app\public\wp-content\plugins\elementor\core\kits\views\panel.php on line <b>12<br />
 </script>

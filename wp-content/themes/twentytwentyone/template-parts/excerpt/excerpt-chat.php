@@ -1,5 +1,5 @@
 <br>
-<b>Fatal error</b>:  Uncaught Error: Call to undefined function has_block() in C:\xampp\htdocs\wp-content\themes\twentytwentyone\template-parts\excerpt\excerpt-chat.php:14
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function has_block() in C:\Users\14387\Local Sites\freddymenu\app\public\wp-content\themes\twentytwentyone\template-parts\excerpt\excerpt-chat.php:14
 Stack trace:
 #0 {main}
-  thrown in <b>C:\xampp\htdocs\wp-content\themes\twentytwentyone\template-parts\excerpt\excerpt-chat.php</b> on line <b>14</b><br>
+  thrown in <b>C:\Users\14387\Local Sites\freddymenu\app\public\wp-content\themes\twentytwentyone\template-parts\excerpt\excerpt-chat.php</b> on line <b>14</b><br>

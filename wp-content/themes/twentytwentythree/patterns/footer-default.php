@@ -6,10 +6,10 @@
 		<!-- wp:paragraph {"align":"right"} -->
 		<p class="has-text-align-right">
 		<br>
-<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_html__() in C:\xampp\htdocs\wp-content\themes\twentytwentythree\patterns\footer-default.php:19
+<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_html__() in C:\Users\14387\Local Sites\freddymenu\app\public\wp-content\themes\twentytwentythree\patterns\footer-default.php:19
 Stack trace:
 #0 {main}
-  thrown in <b>C:\xampp\htdocs\wp-content\themes\twentytwentythree\patterns\footer-default.php</b> on line <b>19</b><br>
+  thrown in <b>C:\Users\14387\Local Sites\freddymenu\app\public\wp-content\themes\twentytwentythree\patterns\footer-default.php</b> on line <b>19</b><br>
 </p>
 </div>
 </div>

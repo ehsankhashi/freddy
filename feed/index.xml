@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>freddymenu</title>
+	<atom:link href="https://ehsankhashi.github.io/freddy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ehsankhashi.github.io/freddy/</link>
+	<description></description>
+	<lastBuildDate>Fri, 27 Jan 2023 23:27:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>ehsan</title>
+		<link>https://ehsankhashi.github.io/freddy/ehsan/</link>
+		
+		<dc:creator><![CDATA[ehsan]]></dc:creator>
+		<pubDate>Fri, 27 Jan 2023 23:10:43 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://ehsankhashi.github.io/freddy/?p=53</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="53" class="elementor elementor-53">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-67b641d elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="67b641d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a6947c2" data-id="a6947c2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-06fd603 elementor-widget elementor-widget-image" data-id="06fd603" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.10.1 - 17-01-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="1700" height="2200" src="https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-1.jpg" class="attachment-full size-full wp-image-63" alt="" srcset="https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-1.jpg 1700w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-1-232x300.jpg 232w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-1-791x1024.jpg 791w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-1-768x994.jpg 768w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-1-1187x1536.jpg 1187w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-1-1583x2048.jpg 1583w" sizes="(max-width: 1700px) 100vw, 1700px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6463d7b elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="6463d7b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f0174be" data-id="f0174be" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0912601 elementor-widget elementor-widget-image" data-id="0912601" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1700" height="2200" src="https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-2.jpg" class="attachment-full size-full wp-image-64" alt="" srcset="https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-2.jpg 1700w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-2-232x300.jpg 232w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-2-791x1024.jpg 791w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-2-768x994.jpg 768w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-2-1187x1536.jpg 1187w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-2-1583x2048.jpg 1583w" sizes="(max-width: 1700px) 100vw, 1700px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-45fe00a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="45fe00a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9105556" data-id="9105556" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-da36181 elementor-widget elementor-widget-image" data-id="da36181" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1700" height="2200" src="https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-3.jpg" class="attachment-full size-full wp-image-65" alt="" srcset="https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-3.jpg 1700w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-3-232x300.jpg 232w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-3-791x1024.jpg 791w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-3-768x994.jpg 768w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-3-1187x1536.jpg 1187w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-3-1583x2048.jpg 1583w" sizes="(max-width: 1700px) 100vw, 1700px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9cb311c elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="9cb311c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5cada1f" data-id="5cada1f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-58f4833 elementor-widget elementor-widget-image" data-id="58f4833" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1700" height="2200" src="https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-4.jpg" class="attachment-full size-full wp-image-66" alt="" srcset="https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-4.jpg 1700w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-4-232x300.jpg 232w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-4-791x1024.jpg 791w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-4-768x994.jpg 768w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-4-1187x1536.jpg 1187w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-4-1583x2048.jpg 1583w" sizes="(max-width: 1700px) 100vw, 1700px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e16b7b7 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="e16b7b7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cf13574" data-id="cf13574" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3352403 elementor-widget elementor-widget-image" data-id="3352403" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1700" height="2200" src="https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-5.jpg" class="attachment-full size-full wp-image-67" alt="" srcset="https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-5.jpg 1700w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-5-232x300.jpg 232w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-5-791x1024.jpg 791w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-5-768x994.jpg 768w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-5-1187x1536.jpg 1187w, https://ehsankhashi.github.io/freddy/wp-content/uploads/2023/01/Menu-SAM-Freddy-5-1583x2048.jpg 1583w" sizes="(max-width: 1700px) 100vw, 1700px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

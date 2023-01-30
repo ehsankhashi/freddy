@@ -1,3 +1,0 @@
-<div class="simply-static-admin-header">
-	<div class="logo"><img src="https://ehsankhashi.github.io/freddy/wp-content/plugins/simply-static/views/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function Simply_Static\esc_url() in C:\Users\14387\Local Sites\freddymenu\app\public\wp-content\plugins\simply-static\views\settings.php:5_Stack trace:_#0 {main}_  thrown in <b>C:\Users\14387\Local Sites\freddymenu\app\public\wp-content\plugins\simply-static\views\settings.php</b> on line <b>5</b><br />"></div>
-</div>

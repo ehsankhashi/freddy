@@ -9,10 +9,10 @@
 
 <channel>
 	<title>menu</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=3" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/feed/?simply_static_page=34" rel="self" type="application/rss+xml" />
 	<link>https://ehsankhashi.github.io/menu/</link>
 	<description></description>
-	<lastBuildDate>Sun, 12 Feb 2023 18:31:03 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Feb 2023 18:55:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,11 +30,11 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<figure class="wp-block-image alignfull size-full has-custom-border"><img decoding="async" width="831" height="1360" src="https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_1-1.jpg" alt="" class="wp-image-12" style="border-style:none;border-width:0px;border-radius:100px" srcset="https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_1-1.jpg 831w, https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_1-1-183x300.jpg 183w, https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_1-1-626x1024.jpg 626w, https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_1-1-768x1257.jpg 768w" sizes="(max-width: 831px) 100vw, 831px" /></figure>
+<figure class="wp-block-image alignfull size-full has-custom-border"><img decoding="async" width="831" height="1360" src="https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_1-1.jpg" alt="" class="wp-image-12" style="border-style:none;border-width:0px;border-radius:0px" srcset="https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_1-1.jpg 831w, https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_1-1-183x300.jpg 183w, https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_1-1-626x1024.jpg 626w, https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_1-1-768x1257.jpg 768w" sizes="(max-width: 831px) 100vw, 831px" /></figure>
 
 
 
-<figure class="wp-block-image alignfull size-large has-custom-border"><img decoding="async" width="626" height="1024" src="https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_2-1-626x1024.jpg" alt="" class="wp-image-13" style="border-style:none;border-width:0px;border-radius:100px" srcset="https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_2-1-626x1024.jpg 626w, https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_2-1-183x300.jpg 183w, https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_2-1-768x1257.jpg 768w, https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_2-1.jpg 831w" sizes="(max-width: 626px) 100vw, 626px" /></figure>
+<figure class="wp-block-image alignfull size-large has-custom-border"><img decoding="async" width="626" height="1024" src="https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_2-1-626x1024.jpg" alt="" class="wp-image-13" style="border-style:none;border-width:0px;border-radius:0px" srcset="https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_2-1-626x1024.jpg 626w, https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_2-1-183x300.jpg 183w, https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_2-1-768x1257.jpg 768w, https://ehsankhashi.github.io/menu/wp-content/uploads/2023/02/L-menu_2-1.jpg 831w" sizes="(max-width: 626px) 100vw, 626px" /></figure>
 ]]></content:encoded>
 					
 		

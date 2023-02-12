@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for menu	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=4" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/comments/feed/?simply_static_page=35" rel="self" type="application/rss+xml" />
 	<link>https://ehsankhashi.github.io/menu/</link>
 	<description></description>
-	<lastBuildDate>Sun, 12 Feb 2023 18:31:03 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Feb 2023 18:55:56 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
